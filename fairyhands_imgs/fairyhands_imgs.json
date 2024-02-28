@@ -1,32 +1,62 @@
 [
   {
-    "category": "Test1",
-    "path": "Test1/EFQU8901.JPG",
+    "category": "GLASS",
+    "path": "glass/IMG_2842.JPG",
     "author": "Eu"
   },
   {
-    "category": "Test1",
-    "path": "Test1/EXUQ2638.JPG",
+    "category": "GLASS",
+    "path": "glass/IMG_4584.JPG",
     "author": "Yo"
   },
   {
-    "category": "Test1",
-    "path": "Test1/IMG_4584.jpg",
+    "category": "GLASS",
+    "path": "glass/IMG_4585.jpg",
     "author": "Eu"
   },
   {
-    "category": "Test1",
-    "path": "Test1/IMG_4592.jpg",
+    "category": "GLASS",
+    "path": "glass/IMG_4592.jpg",
     "author": "Yo"
   },
   {
-    "category": "Test2",
-    "path": "Test2/ABFK6176.JPG",
+    "category": "GLASS",
+    "path": "glass/IMG_4609.JPG",
     "author": "I"
   },
   {
-    "category": "Test2",
-    "path": "Test2/ANOH1579.JPG",
+    "category": "GLASS",
+    "path": "glass/IMG_4610.JPG",
+    "author": "Me"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_1478.JPG",
+    "author": "Eu"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_2229.JPG",
+    "author": "Yo"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_4599.jpg",
+    "author": "Eu"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_4600.jpg",
+    "author": "Yo"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_4603.JPG",
+    "author": "I"
+  },
+  {
+    "category": "METAL",
+    "path": "metal/IMG_4617.JPG",
     "author": "Me"
   }
 ]
