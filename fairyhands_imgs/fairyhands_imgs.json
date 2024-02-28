@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Test1",
+    "path": "Test1/alan-qIrxgh8WupA-unsplash.jpg",
+    "author": "Eu"
+  },
+  {
+    "category": "Test1",
+    "path": "Test1/abdullah-ahmad-NjHLcr2Rf5I-unsplash.jpg",
+    "author": "Yo"
+  },
+  {
+    "category": "Test2",
+    "path": "Test2/athanasios-papazacharias-bix-AqFSNVo-unsplash.jpg",
+    "author": "I"
+  },
+  {
+    "category": "Test2",
+    "path": "Test2/lucas-rosin-7ffZeg03YAI-unsplash.jpg",
+    "author": "Me"
+  }
+]
